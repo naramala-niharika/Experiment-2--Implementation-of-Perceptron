@@ -44,7 +44,7 @@ Print the accuracy
 ```
  ### PROGRAM:
  NAME : Naramala Niharika
- REgister Number : 212221240031
+ Register Number : 212221240031
  import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
