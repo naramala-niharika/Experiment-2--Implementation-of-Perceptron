@@ -177,12 +177,12 @@ def plot_decision_regions(x, y):
     plt.show()
 
 plot_decision_regions(x_test, y_test)'''
-
 ```
 
 ### Output:
-!{Output}(https://github.com/naramala-niharika/Experiment-2--Implementation-of-Perceptron/blob/main/NN%201.jpg?raw=true)
-!{Output}(https://github.com/naramala-niharika/Experiment-2--Implementation-of-Perceptron/blob/main/NN%202.jpg?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment-2--Implementation-of-Perceptron/blob/main/NN%201.jpg?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment-2--Implementation-of-Perceptron/blob/main/NN%202.jpg?raw=true)
 
 ### Result :
+Thus implemented a perceptron for classification using Python.
 
